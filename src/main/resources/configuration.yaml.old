@@ -1,0 +1,5 @@
+database:
+  driverClass: org.postgresql.Driver
+  user: postgres
+  #password: 1
+  url: jdbc:postgresql://localhost:5432/mac
